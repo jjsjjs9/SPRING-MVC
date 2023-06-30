@@ -13,6 +13,8 @@ public class HelloController {
 
     }
 //
+
+    // 두번 쑤정
     @GetMapping("/api/get")
     @ResponseBody
     public String get(){
